@@ -1,0 +1,3705 @@
+{
+  "url" : "http://triassicsolutions.com/blog/",
+  "area" : "",
+  "subArea" : "",
+  "name" : "Blog - Triassic Solutions - End-to-End Product Development  Digital Transformation  Industrial Automation",
+  "uuid" : null,
+  "containerApplication" : "",
+  "createdBy" : null,
+  "modifiedTime" : "2019-10-31 18:07:38",
+  "parentPage" : "Triassic Solutions - End-to-End Product Development  Digital Transformation  Industrial Automation",
+  "noOfForms" : 3,
+  "noOfTables" : 0,
+  "noOfDropDowns" : 0,
+  "parentPageList" : [ "Triassic Solutions - End-to-End Product Development  Digital Transformation  Industrial Automation" ],
+  "analysisType" : 0,
+  "autoAwareObjectType" : null,
+  "objectClicked" : "Blog",
+  "parentForm" : null,
+  "parentFormList" : [ ],
+  "pathToPages" : [ {
+    "parentPage" : "Triassic Solutions - End-to-End Product Development  Digital Transformation  Industrial Automation",
+    "objectClicked" : "Blog"
+  } ],
+  "pathToForms" : [ ],
+  "environment" : "AEnv2",
+  "formNames" : null,
+  "createdTime" : "2019-10-31 18:07:38",
+  "objectmap" : [ {
+    "alias" : "search-header",
+    "parameter" : "id",
+    "parametervalue" : "search-header",
+    "type" : "FORM",
+    "objectList" : [ ],
+    "attributes" : {
+      "method" : "get",
+      "name" : "form-search-header",
+      "isclickable" : "false",
+      "action" : "http//triassicsolutions.com/blog/",
+      "textContent" : "\n                    \n                    \n                        \n                            \n                        \n                    \n                    \n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n                ",
+      "id" : "search-header",
+      "class" : "search-inline"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "NON_CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idsearch-2form1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"search-2\"]/form[1]",
+    "type" : "FORM",
+    "objectList" : [ ],
+    "attributes" : {
+      "isclickable" : "false",
+      "action" : "http//triassicsolutions.com/blog/",
+      "textContent" : "\n\t\n\t\t\n\t\t\n\t\n",
+      "method" : "get",
+      "class" : "w-search"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "NON_CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "SendaMessage",
+    "parameter" : "xpath",
+    "parametervalue" : "/html/body/div[7]/div[1]/form[1]",
+    "type" : "FORM",
+    "objectList" : [ ],
+    "attributes" : {
+      "data-thanks" : "Message sent!",
+      "method" : "post",
+      "isclickable" : "false",
+      "action" : "http//triassicsolutions.com/blog?action=widget_contact_form",
+      "textContent" : "\n\n                    Send a Message\n                    \n                    \n                    \n                        \n                        \n                            \n                        \n                    \n                    \n                        \n                        \n                            \n                        \n                    \n\n                    \n                        \n                        \n                            \n                        \n                    \n\n                    \n                        \n                        \n                            \n                        \n                    \n\n                    \n                        \n                        \n                            \n                        \n                    \n\n                    \n\t\t                Send a Message                    \n                ",
+      "class" : "contact-form"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "NON_CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Skip to content",
+    "parameter" : "xpath",
+    "parametervalue" : "/html/body/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Skip to content",
+      "href" : "#primary",
+      "class" : "skip-link screen-reader-text"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "ABOUT US",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-header\"]/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "ABOUT US",
+      "href" : "http//triassicsolutions.com/about-us"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "CAREERS",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-header\"]/div[1]/div[1]/div[1]/div[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "CAREERS",
+      "href" : "http//triassicsolutions.com/careers"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "CONTACT US",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-header\"]/div[1]/div[1]/div[1]/div[3]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "CONTACT US",
+      "href" : "http//triassicsolutions.com/contact-us"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "top-bar-close-js",
+    "parameter" : "id",
+    "parametervalue" : "top-bar-close-js",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t",
+      "href" : "#",
+      "id" : "top-bar-close-js",
+      "class" : "top-bar-close"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "top-bar-js",
+    "parameter" : "id",
+    "parametervalue" : "top-bar-js",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n                    \n                        \n                    \n                ",
+      "href" : "#",
+      "id" : "top-bar-js",
+      "class" : "top-bar-link"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idsite-headerdiv2div1div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-header\"]/div[2]/div[1]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "rel" : "home",
+      "isclickable" : "true",
+      "textContent" : "",
+      "href" : "http//triassicsolutions.com/",
+      "class" : "full-block"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "menu-icon-trigger",
+    "parameter" : "id",
+    "parametervalue" : "menu-icon-trigger",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n                        Menu\n                        \n                            \n                                \n                                \n                                \n                            \n                        \n                    ",
+      "href" : "javascriptvoid(0)",
+      "id" : "menu-icon-trigger",
+      "class" : "menu-icon-trigger showhide"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Product Development",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"menu-item-2067\"]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Product Development",
+      "href" : "http//triassicsolutions.com/product-development"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Web Apps",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"menu-item-2068\"]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Web Apps",
+      "href" : "http//triassicsolutions.com/web-apps"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Mobile Apps",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"menu-item-2069\"]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Mobile Apps",
+      "href" : "http//triassicsolutions.com/mobile-apps"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Embedded",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"menu-item-2070\"]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Embedded",
+      "href" : "http//triassicsolutions.com/embedded"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Digital Transformation",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"menu-item-2071\"]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Digital Transformation",
+      "href" : "http//triassicsolutions.com/digital-transformation"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Robotic Process Automation",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"menu-item-2072\"]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Robotic Process Automation",
+      "href" : "http//triassicsolutions.com/rpa"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Internet of Things",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"menu-item-2073\"]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Internet of Things",
+      "href" : "http//triassicsolutions.com/iot"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "AIML",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"menu-item-2074\"]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "AI/ML",
+      "href" : "http//triassicsolutions.com/ai-ml"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Blockchain",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"menu-item-2075\"]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Blockchain",
+      "href" : "http//triassicsolutions.com/blockchain"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Industrial Automation",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"menu-item-2077\"]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Industrial Automation",
+      "href" : "http//triassicsolutions.com/industrial-automation"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Resources",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"menu-item-2120\"]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Resources",
+      "href" : "#"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Blog",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"menu-item-2122\"]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Blog",
+      "href" : "http//triassicsolutions.com/blog"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Case Studies",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"menu-item-2121\"]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Case Studies",
+      "href" : "http//triassicsolutions.com/case-study"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "htmlbodydiv3a1",
+    "parameter" : "xpath",
+    "parametervalue" : "/html/body/div[3]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n            \n                \n            \n        ",
+      "href" : "#",
+      "class" : "popup-close js-popup-close cd-nav-trigger"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle1div1div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[1]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/wp-content/uploads/2019/10/Li-Fi.png",
+      "class" : "link-image js-zoom-image"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle1div1div1a2",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[1]/div[1]/a[2]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/li-fi-light-fidelity-the-future-technology/",
+      "class" : "link-post"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle1div2a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\n\t\t\n\t\n",
+      "href" : "#",
+      "class" : "social__item main"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle1div2div1ul1li1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item facebook sharer",
+      "data-sharer" : "facebook",
+      "data-url" : "http//triassicsolutions.com/blog/li-fi-light-fidelity-the-future-technology/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle1div2div1ul1li2a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item twitter sharer",
+      "data-sharer" : "twitter",
+      "data-url" : "http//triassicsolutions.com/blog/li-fi-light-fidelity-the-future-technology/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle1div2div1ul1li3a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item googleplus sharer",
+      "data-sharer" : "googleplus",
+      "data-url" : "http//triassicsolutions.com/blog/li-fi-light-fidelity-the-future-technology/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle1div2div1ul1li4a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item rss sharer",
+      "data-sharer" : "rss",
+      "data-url" : "http//triassicsolutions.com/blog/li-fi-light-fidelity-the-future-technology/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "29",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[2]/time[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "29",
+      "href" : "http//triassicsolutions.com/blog/li-fi-light-fidelity-the-future-technology/",
+      "class" : "number"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Li-Fi Light Fidelity",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/h2[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "rel" : "bookmark",
+      "isclickable" : "true",
+      "textContent" : "Li-Fi (Light Fidelity) – The Future Technology",
+      "href" : "http//triassicsolutions.com/blog/li-fi-light-fidelity-the-future-technology/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "University of Edinburgh",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/p[6]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "University of Edinburgh",
+      "href" : "https//en.wikipedia.org/wiki/University_of_Edinburgh"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "radio frequency",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/p[8]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "radio frequency",
+      "href" : "https//en.wikipedia.org/wiki/Radio_frequency"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "broadband",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/p[8]/a[2]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "broadband",
+      "href" : "https//en.wikipedia.org/wiki/Broadband"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Mbs",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/p[9]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "Mb/s",
+      "href" : "https//en.wikipedia.org/wiki/Mbit/s"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "electromagnetic interference",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/p[10]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "electromagnetic interference",
+      "href" : "https//en.wikipedia.org/wiki/Electromagnetic_interference"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "similar 80211 protocols",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/p[11]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "similar 802.11 protocols",
+      "href" : "https//en.wikipedia.org/wiki/IEEE_802.11"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "ultraviolet",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/p[11]/a[2]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "ultraviolet",
+      "href" : "https//en.wikipedia.org/wiki/Ultraviolet"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "infrared",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/p[11]/a[3]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "infrared",
+      "href" : "https//en.wikipedia.org/wiki/Infrared"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "visible light communication",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/p[11]/a[4]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "visible light communication",
+      "href" : "https//en.wikipedia.org/wiki/Visible_light_communication"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "bandwidth",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/p[11]/a[5]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "bandwidth",
+      "href" : "https//en.wikipedia.org/wiki/Bandwidth_(signal_processing)"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "LED",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/ul[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "LED",
+      "href" : "https//en.wikipedia.org/wiki/LED"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Fraunhofer",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "Fraunhofer",
+      "href" : "https//en.wikipedia.org/wiki/Fraunhofer_Society"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Li-Fi Consortium",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/ul[1]/li[2]/a[2]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "Li-Fi Consortium",
+      "href" : "https//en.wikipedia.org/wiki/Li-Fi_Consortium"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "CMOS",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/ul[1]/li[7]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "CMOS",
+      "href" : "https//en.wikipedia.org/wiki/CMOS"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "BMW",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/ul[1]/li[8]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "BMW",
+      "href" : "https//en.wikipedia.org/wiki/BMW"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Munich",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/ul[1]/li[8]/a[2]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "Munich",
+      "href" : "https//en.wikipedia.org/wiki/Munich"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Kyle Academy",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/ul[1]/li[9]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "Kyle Academy",
+      "href" : "https//en.wikipedia.org/wiki/Kyle_Academy"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "secondary school",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/ul[1]/li[9]/a[2]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "secondary school",
+      "href" : "https//en.wikipedia.org/wiki/Secondary_school"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Scotland",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/ul[1]/li[9]/a[3]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "Scotland",
+      "href" : "https//en.wikipedia.org/wiki/Scotland"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "laptop computers",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/ul[1]/li[9]/a[4]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "laptop, computers",
+      "href" : "https//en.wikipedia.org/wiki/Laptop"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "USB device",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/ul[1]/li[9]/a[5]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "USB device",
+      "href" : "https//en.wikipedia.org/wiki/USB"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Paris Air Show",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/ul[1]/li[10]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "Paris Air Show",
+      "href" : "https//en.wikipedia.org/wiki/Paris_Air_Show"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Air France",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/ul[1]/li[10]/a[2]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "Air France",
+      "href" : "https//en.wikipedia.org/wiki/Air_France"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Philips Lighting",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/ul[1]/li[11]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "Philips Lighting",
+      "href" : "https//en.wikipedia.org/wiki/Philips"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "0                Comments",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/div[1]/span[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "0                Comments\n\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/li-fi-light-fidelity-the-future-technology/#comments"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle1div2div3div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[1]/div[2]/div[3]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/li-fi-light-fidelity-the-future-technology/",
+      "class" : "btn-next"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle2div1div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[2]/div[1]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/wp-content/uploads/2019/10/AI_MachineLEarning-1.png",
+      "class" : "link-image js-zoom-image"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle2div1div1a2",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[2]/div[1]/div[1]/a[2]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/leveraging-the-power-of-ai-in-automating-ui-tests/",
+      "class" : "link-post"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle2div2a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[2]/div[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\n\t\t\n\t\n",
+      "href" : "#",
+      "class" : "social__item main"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle2div2div1ul1li1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[2]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item facebook sharer",
+      "data-sharer" : "facebook",
+      "data-url" : "http//triassicsolutions.com/blog/leveraging-the-power-of-ai-in-automating-ui-tests/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle2div2div1ul1li2a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[2]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item twitter sharer",
+      "data-sharer" : "twitter",
+      "data-url" : "http//triassicsolutions.com/blog/leveraging-the-power-of-ai-in-automating-ui-tests/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle2div2div1ul1li3a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[2]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item googleplus sharer",
+      "data-sharer" : "googleplus",
+      "data-url" : "http//triassicsolutions.com/blog/leveraging-the-power-of-ai-in-automating-ui-tests/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle2div2div1ul1li4a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[2]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item rss sharer",
+      "data-sharer" : "rss",
+      "data-url" : "http//triassicsolutions.com/blog/leveraging-the-power-of-ai-in-automating-ui-tests/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "11",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[2]/div[2]/div[2]/time[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "11",
+      "href" : "http//triassicsolutions.com/blog/leveraging-the-power-of-ai-in-automating-ui-tests/",
+      "class" : "number"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Leveraging the power",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[2]/div[2]/div[3]/h2[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "rel" : "bookmark",
+      "isclickable" : "true",
+      "textContent" : "Leveraging the power of AI in automating UI tests",
+      "href" : "http//triassicsolutions.com/blog/leveraging-the-power-of-ai-in-automating-ui-tests/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "0                Comments_1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[2]/div[2]/div[3]/div[1]/span[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "0                Comments\n\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/leveraging-the-power-of-ai-in-automating-ui-tests/#comments"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle2div2div3div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[2]/div[2]/div[3]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/leveraging-the-power-of-ai-in-automating-ui-tests/",
+      "class" : "btn-next"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle3div1div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[3]/div[1]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/wp-content/uploads/2019/07/image.jpg",
+      "class" : "link-image js-zoom-image"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle3div1div1a2",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[3]/div[1]/div[1]/a[2]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/top-challenges-in-designing-nlu-based-voice-assisted-systems-for-elderly-people/",
+      "class" : "link-post"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle3div2a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[3]/div[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\n\t\t\n\t\n",
+      "href" : "#",
+      "class" : "social__item main"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle3div2div1ul1li1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[3]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item facebook sharer",
+      "data-sharer" : "facebook",
+      "data-url" : "http//triassicsolutions.com/blog/top-challenges-in-designing-nlu-based-voice-assisted-systems-for-elderly-people/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle3div2div1ul1li2a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[3]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item twitter sharer",
+      "data-sharer" : "twitter",
+      "data-url" : "http//triassicsolutions.com/blog/top-challenges-in-designing-nlu-based-voice-assisted-systems-for-elderly-people/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle3div2div1ul1li3a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[3]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item googleplus sharer",
+      "data-sharer" : "googleplus",
+      "data-url" : "http//triassicsolutions.com/blog/top-challenges-in-designing-nlu-based-voice-assisted-systems-for-elderly-people/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle3div2div1ul1li4a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[3]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item rss sharer",
+      "data-sharer" : "rss",
+      "data-url" : "http//triassicsolutions.com/blog/top-challenges-in-designing-nlu-based-voice-assisted-systems-for-elderly-people/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "24",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[3]/div[2]/div[2]/time[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "24",
+      "href" : "http//triassicsolutions.com/blog/top-challenges-in-designing-nlu-based-voice-assisted-systems-for-elderly-people/",
+      "class" : "number"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Top challenges in designing",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[3]/div[2]/div[3]/h2[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "rel" : "bookmark",
+      "isclickable" : "true",
+      "textContent" : "Top challenges in designing NLU based voice assisted systems for elderly people",
+      "href" : "http//triassicsolutions.com/blog/top-challenges-in-designing-nlu-based-voice-assisted-systems-for-elderly-people/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "salestriassicsolutionscom",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[3]/div[2]/div[3]/p[8]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "sales@triassicsolutions.com",
+      "href" : "mailtosales@triassicsolutions.com"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "MAILTO",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "0                Comments_2",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[3]/div[2]/div[3]/div[1]/span[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "0                Comments\n\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/top-challenges-in-designing-nlu-based-voice-assisted-systems-for-elderly-people/#comments"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle3div2div3div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[3]/div[2]/div[3]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/top-challenges-in-designing-nlu-based-voice-assisted-systems-for-elderly-people/",
+      "class" : "btn-next"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle4div1div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[4]/div[1]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/wp-content/uploads/2019/08/QA-to-QE.jpg",
+      "class" : "link-image js-zoom-image"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle4div1div1a2",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[4]/div[1]/div[1]/a[2]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/reinventing-quality-assurance-qa-to-qe/",
+      "class" : "link-post"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle4div2a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[4]/div[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\n\t\t\n\t\n",
+      "href" : "#",
+      "class" : "social__item main"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle4div2div1ul1li1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[4]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item facebook sharer",
+      "data-sharer" : "facebook",
+      "data-url" : "http//triassicsolutions.com/blog/reinventing-quality-assurance-qa-to-qe/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle4div2div1ul1li2a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[4]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item twitter sharer",
+      "data-sharer" : "twitter",
+      "data-url" : "http//triassicsolutions.com/blog/reinventing-quality-assurance-qa-to-qe/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle4div2div1ul1li3a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[4]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item googleplus sharer",
+      "data-sharer" : "googleplus",
+      "data-url" : "http//triassicsolutions.com/blog/reinventing-quality-assurance-qa-to-qe/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle4div2div1ul1li4a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[4]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item rss sharer",
+      "data-sharer" : "rss",
+      "data-url" : "http//triassicsolutions.com/blog/reinventing-quality-assurance-qa-to-qe/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "18",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[4]/div[2]/div[2]/time[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "18",
+      "href" : "http//triassicsolutions.com/blog/reinventing-quality-assurance-qa-to-qe/",
+      "class" : "number"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Reinventing Quality Assurance",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[4]/div[2]/div[3]/h2[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "rel" : "bookmark",
+      "isclickable" : "true",
+      "textContent" : "Reinventing Quality Assurance:- QA to QE",
+      "href" : "http//triassicsolutions.com/blog/reinventing-quality-assurance-qa-to-qe/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "0                Comments_3",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[4]/div[2]/div[3]/div[1]/span[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "0                Comments\n\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/reinventing-quality-assurance-qa-to-qe/#comments"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle4div2div3div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[4]/div[2]/div[3]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/reinventing-quality-assurance-qa-to-qe/",
+      "class" : "btn-next"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle5div1div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[5]/div[1]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/wp-content/uploads/2019/08/OWASP-1.jpg",
+      "class" : "link-image js-zoom-image"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle5div1div1a2",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[5]/div[1]/div[1]/a[2]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/owasp-and-owasp-top-10%ef%bb%bf/",
+      "class" : "link-post"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle5div2a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[5]/div[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\n\t\t\n\t\n",
+      "href" : "#",
+      "class" : "social__item main"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle5div2div1ul1li1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[5]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item facebook sharer",
+      "data-sharer" : "facebook",
+      "data-url" : "http//triassicsolutions.com/blog/owasp-and-owasp-top-10%ef%bb%bf/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle5div2div1ul1li2a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[5]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item twitter sharer",
+      "data-sharer" : "twitter",
+      "data-url" : "http//triassicsolutions.com/blog/owasp-and-owasp-top-10%ef%bb%bf/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle5div2div1ul1li3a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[5]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item googleplus sharer",
+      "data-sharer" : "googleplus",
+      "data-url" : "http//triassicsolutions.com/blog/owasp-and-owasp-top-10%ef%bb%bf/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle5div2div1ul1li4a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[5]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item rss sharer",
+      "data-sharer" : "rss",
+      "data-url" : "http//triassicsolutions.com/blog/owasp-and-owasp-top-10%ef%bb%bf/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "04",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[5]/div[2]/div[2]/time[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "04",
+      "href" : "http//triassicsolutions.com/blog/owasp-and-owasp-top-10%ef%bb%bf/",
+      "class" : "number"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "OWASP and OWASP Top 10",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[5]/div[2]/div[3]/h2[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "rel" : "bookmark",
+      "isclickable" : "true",
+      "textContent" : "OWASP and OWASP Top 10﻿",
+      "href" : "http//triassicsolutions.com/blog/owasp-and-owasp-top-10%ef%bb%bf/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "OWASP",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[5]/div[2]/div[3]/p[4]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "rel" : "noreferrer noopener",
+      "isclickable" : "false",
+      "textContent" : "OWASP",
+      "href" : "https//www.owasp.org/index.php/Main_Page",
+      "target" : "_blank"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "0                Comments_4",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[5]/div[2]/div[3]/div[1]/span[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "0                Comments\n\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/owasp-and-owasp-top-10%ef%bb%bf/#comments"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle5div2div3div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[5]/div[2]/div[3]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/owasp-and-owasp-top-10%ef%bb%bf/",
+      "class" : "btn-next"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2311div1div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2311\"]/div[1]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/wp-content/uploads/2019/02/Is-Disruption-an-Opportunity-for-Capital-Markets.jpg",
+      "class" : "link-image js-zoom-image"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2311div1div1a2",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2311\"]/div[1]/div[1]/a[2]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/is-disruption-an-opportunity-for-capital-markets/",
+      "class" : "link-post"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2311div2a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2311\"]/div[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\n\t\t\n\t\n",
+      "href" : "#",
+      "class" : "social__item main"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2311div2div1ul1li1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2311\"]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item facebook sharer",
+      "data-sharer" : "facebook",
+      "data-url" : "http//triassicsolutions.com/blog/is-disruption-an-opportunity-for-capital-markets/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2311div2div1ul1li2a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2311\"]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item twitter sharer",
+      "data-sharer" : "twitter",
+      "data-url" : "http//triassicsolutions.com/blog/is-disruption-an-opportunity-for-capital-markets/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2311div2div1ul1li3a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2311\"]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item googleplus sharer",
+      "data-sharer" : "googleplus",
+      "data-url" : "http//triassicsolutions.com/blog/is-disruption-an-opportunity-for-capital-markets/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2311div2div1ul1li4a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2311\"]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item rss sharer",
+      "data-sharer" : "rss",
+      "data-url" : "http//triassicsolutions.com/blog/is-disruption-an-opportunity-for-capital-markets/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "28",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2311\"]/div[2]/div[2]/time[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "28",
+      "href" : "http//triassicsolutions.com/blog/is-disruption-an-opportunity-for-capital-markets/",
+      "class" : "number"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Is Disruption an Opportunity",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2311\"]/div[2]/div[3]/h2[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "rel" : "bookmark",
+      "isclickable" : "true",
+      "textContent" : "Is Disruption an Opportunity for Capital Markets?",
+      "href" : "http//triassicsolutions.com/blog/is-disruption-an-opportunity-for-capital-markets/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "0                Comments_5",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2311\"]/div[2]/div[3]/div[1]/span[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "0                Comments\n\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/is-disruption-an-opportunity-for-capital-markets/#comments"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2311div2div3div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2311\"]/div[2]/div[3]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/is-disruption-an-opportunity-for-capital-markets/",
+      "class" : "btn-next"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2307div1div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2307\"]/div[1]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/wp-content/uploads/2019/02/Disruptive-Technologies-Impacting-Capital-Markets.jpg",
+      "class" : "link-image js-zoom-image"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2307div1div1a2",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2307\"]/div[1]/div[1]/a[2]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/disruptive-technologies-impacting-capital-markets/",
+      "class" : "link-post"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2307div2a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2307\"]/div[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\n\t\t\n\t\n",
+      "href" : "#",
+      "class" : "social__item main"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2307div2div1ul1li1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2307\"]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item facebook sharer",
+      "data-sharer" : "facebook",
+      "data-url" : "http//triassicsolutions.com/blog/disruptive-technologies-impacting-capital-markets/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2307div2div1ul1li2a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2307\"]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item twitter sharer",
+      "data-sharer" : "twitter",
+      "data-url" : "http//triassicsolutions.com/blog/disruptive-technologies-impacting-capital-markets/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2307div2div1ul1li3a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2307\"]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item googleplus sharer",
+      "data-sharer" : "googleplus",
+      "data-url" : "http//triassicsolutions.com/blog/disruptive-technologies-impacting-capital-markets/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2307div2div1ul1li4a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2307\"]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item rss sharer",
+      "data-sharer" : "rss",
+      "data-url" : "http//triassicsolutions.com/blog/disruptive-technologies-impacting-capital-markets/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "21",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2307\"]/div[2]/div[2]/time[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "21",
+      "href" : "http//triassicsolutions.com/blog/disruptive-technologies-impacting-capital-markets/",
+      "class" : "number"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Disruptive Technologies",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2307\"]/div[2]/div[3]/h2[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "rel" : "bookmark",
+      "isclickable" : "true",
+      "textContent" : "Disruptive Technologies Impacting Capital Markets",
+      "href" : "http//triassicsolutions.com/blog/disruptive-technologies-impacting-capital-markets/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "0                Comments_6",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2307\"]/div[2]/div[3]/div[1]/span[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "0                Comments\n\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/disruptive-technologies-impacting-capital-markets/#comments"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2307div2div3div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2307\"]/div[2]/div[3]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/disruptive-technologies-impacting-capital-markets/",
+      "class" : "btn-next"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2303div1div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2303\"]/div[1]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/wp-content/uploads/2019/02/IoT-Considerations-for-CIOs.jpg",
+      "class" : "link-image js-zoom-image"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2303div1div1a2",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2303\"]/div[1]/div[1]/a[2]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/iot-considerations-for-cios/",
+      "class" : "link-post"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2303div2a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2303\"]/div[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\n\t\t\n\t\n",
+      "href" : "#",
+      "class" : "social__item main"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2303div2div1ul1li1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2303\"]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item facebook sharer",
+      "data-sharer" : "facebook",
+      "data-url" : "http//triassicsolutions.com/blog/iot-considerations-for-cios/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2303div2div1ul1li2a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2303\"]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item twitter sharer",
+      "data-sharer" : "twitter",
+      "data-url" : "http//triassicsolutions.com/blog/iot-considerations-for-cios/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2303div2div1ul1li3a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2303\"]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item googleplus sharer",
+      "data-sharer" : "googleplus",
+      "data-url" : "http//triassicsolutions.com/blog/iot-considerations-for-cios/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2303div2div1ul1li4a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2303\"]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item rss sharer",
+      "data-sharer" : "rss",
+      "data-url" : "http//triassicsolutions.com/blog/iot-considerations-for-cios/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "14",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2303\"]/div[2]/div[2]/time[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "14",
+      "href" : "http//triassicsolutions.com/blog/iot-considerations-for-cios/",
+      "class" : "number"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "IoT Considerations for",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2303\"]/div[2]/div[3]/h2[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "rel" : "bookmark",
+      "isclickable" : "true",
+      "textContent" : "IoT Considerations for CIOs",
+      "href" : "http//triassicsolutions.com/blog/iot-considerations-for-cios/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "0                Comments_7",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2303\"]/div[2]/div[3]/div[1]/span[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "0                Comments\n\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/iot-considerations-for-cios/#comments"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2303div2div3div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2303\"]/div[2]/div[3]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/iot-considerations-for-cios/",
+      "class" : "btn-next"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2298div1div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2298\"]/div[1]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/wp-content/uploads/2019/02/9-More-Uses-for-Blockchain-in-the-Real-World.jpg",
+      "class" : "link-image js-zoom-image"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2298div1div1a2",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2298\"]/div[1]/div[1]/a[2]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/9-more-uses-for-blockchain-in-the-real-world/",
+      "class" : "link-post"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2298div2a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2298\"]/div[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\n\t\t\n\t\n",
+      "href" : "#",
+      "class" : "social__item main"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2298div2div1ul1li1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2298\"]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item facebook sharer",
+      "data-sharer" : "facebook",
+      "data-url" : "http//triassicsolutions.com/blog/9-more-uses-for-blockchain-in-the-real-world/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2298div2div1ul1li2a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2298\"]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item twitter sharer",
+      "data-sharer" : "twitter",
+      "data-url" : "http//triassicsolutions.com/blog/9-more-uses-for-blockchain-in-the-real-world/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2298div2div1ul1li3a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2298\"]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item googleplus sharer",
+      "data-sharer" : "googleplus",
+      "data-url" : "http//triassicsolutions.com/blog/9-more-uses-for-blockchain-in-the-real-world/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2298div2div1ul1li4a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2298\"]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item rss sharer",
+      "data-sharer" : "rss",
+      "data-url" : "http//triassicsolutions.com/blog/9-more-uses-for-blockchain-in-the-real-world/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "07",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2298\"]/div[2]/div[2]/time[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "07",
+      "href" : "http//triassicsolutions.com/blog/9-more-uses-for-blockchain-in-the-real-world/",
+      "class" : "number"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "9 More Uses for Blockchain",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2298\"]/div[2]/div[3]/h2[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "rel" : "bookmark",
+      "isclickable" : "true",
+      "textContent" : "9 More Uses for Blockchain in the Real World",
+      "href" : "http//triassicsolutions.com/blog/9-more-uses-for-blockchain-in-the-real-world/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "9 Uses for Blockchain",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2298\"]/div[2]/div[3]/p[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "9 Uses for Blockchain in the Real World",
+      "href" : "http//triassicsolutions.com/blog/9-uses-for-blockchain-in-the-real-world/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "0                Comments_8",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2298\"]/div[2]/div[3]/div[1]/span[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "0                Comments\n\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/9-more-uses-for-blockchain-in-the-real-world/#comments"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idpost-2298div2div3div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2298\"]/div[2]/div[3]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/9-more-uses-for-blockchain-in-the-real-world/",
+      "class" : "btn-next"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle10div1div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[10]/div[1]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/wp-content/uploads/2019/01/Uses-for-Blockchain-in-the-Real-World.jpg",
+      "class" : "link-image js-zoom-image"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle10div1div1a2",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[10]/div[1]/div[1]/a[2]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/9-uses-for-blockchain-in-the-real-world/",
+      "class" : "link-post"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle10div2a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[10]/div[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\n\t\t\n\t\n",
+      "href" : "#",
+      "class" : "social__item main"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle10div2div1ul1li1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[10]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item facebook sharer",
+      "data-sharer" : "facebook",
+      "data-url" : "http//triassicsolutions.com/blog/9-uses-for-blockchain-in-the-real-world/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle10div2div1ul1li2a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[10]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item twitter sharer",
+      "data-sharer" : "twitter",
+      "data-url" : "http//triassicsolutions.com/blog/9-uses-for-blockchain-in-the-real-world/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle10div2div1ul1li3a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[10]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item googleplus sharer",
+      "data-sharer" : "googleplus",
+      "data-url" : "http//triassicsolutions.com/blog/9-uses-for-blockchain-in-the-real-world/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle10div2div1ul1li4a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[10]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "class" : "social__item rss sharer",
+      "data-sharer" : "rss",
+      "data-url" : "http//triassicsolutions.com/blog/9-uses-for-blockchain-in-the-real-world/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "30",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[10]/div[2]/div[2]/time[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "30",
+      "href" : "http//triassicsolutions.com/blog/9-uses-for-blockchain-in-the-real-world/",
+      "class" : "number"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "9 Uses for Blockchain_1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[10]/div[2]/div[3]/h2[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "rel" : "bookmark",
+      "isclickable" : "true",
+      "textContent" : "9 Uses for Blockchain in the Real World",
+      "href" : "http//triassicsolutions.com/blog/9-uses-for-blockchain-in-the-real-world/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "0                Comments_9",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[10]/div[2]/div[3]/div[1]/span[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "0                Comments\n\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/9-uses-for-blockchain-in-the-real-world/#comments"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmainarticle10div2div3div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/article[10]/div[2]/div[3]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "href" : "http//triassicsolutions.com/blog/9-uses-for-blockchain-in-the-real-world/",
+      "class" : "btn-next"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "2",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/div[1]/div[1]/nav[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "2",
+      "href" : "http//triassicsolutions.com/blog/page/2/",
+      "class" : "page-numbers bg-border-color"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "3",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main\"]/div[1]/div[1]/nav[1]/a[2]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "3",
+      "href" : "http//triassicsolutions.com/blog/page/3/",
+      "class" : "page-numbers bg-border-color"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Latest",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"utouch_latest_news-3\"]/ul[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "data-toggle" : "tab",
+      "role" : "tab",
+      "isclickable" : "true",
+      "textContent" : "Latest",
+      "href" : "#latest",
+      "class" : "control-item"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Popular",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"utouch_latest_news-3\"]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "data-toggle" : "tab",
+      "role" : "tab",
+      "isclickable" : "true",
+      "textContent" : "Popular",
+      "href" : "#popular",
+      "class" : "control-item"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Comments",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"utouch_latest_news-3\"]/ul[1]/li[3]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "data-toggle" : "tab",
+      "role" : "tab",
+      "isclickable" : "true",
+      "textContent" : "Comments",
+      "href" : "#w-latest-comments",
+      "class" : "control-item"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Li-Fi Light Fidelity_1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"latest\"]/ul[1]/li[1]/article[1]/header[1]/div[2]/h6[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Li-Fi (Light Fidelity) – The Future Technology",
+      "href" : "http//triassicsolutions.com/blog/li-fi-light-fidelity-the-future-technology/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Leveraging the power_1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"latest\"]/ul[1]/li[2]/article[1]/header[1]/div[2]/h6[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Leveraging the power of AI in automating UI tests",
+      "href" : "http//triassicsolutions.com/blog/leveraging-the-power-of-ai-in-automating-ui-tests/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Top challenges in designing_1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"latest\"]/ul[1]/li[3]/article[1]/header[1]/div[2]/h6[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Top challenges in designing NLU based voice assisted systems for elderly people",
+      "href" : "http//triassicsolutions.com/blog/top-challenges-in-designing-nlu-based-voice-assisted-systems-for-elderly-people/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Reinventing Quality Assurance_1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"latest\"]/ul[1]/li[4]/article[1]/header[1]/div[2]/h6[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Reinventing Quality Assurance:- QA to QE",
+      "href" : "http//triassicsolutions.com/blog/reinventing-quality-assurance-qa-to-qe/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "OWASP and OWASP Top 10_1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"latest\"]/ul[1]/li[5]/article[1]/header[1]/div[2]/h6[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "OWASP and OWASP Top 10﻿",
+      "href" : "http//triassicsolutions.com/blog/owasp-and-owasp-top-10%ef%bb%bf/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Basics of user centric",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2096\"]/header[1]/div[2]/h6[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Basics of user centric software design",
+      "href" : "http//triassicsolutions.com/blog/basics-of-user-centric-software-design/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Stay in The Know Differentiat",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2283\"]/header[1]/div[2]/h6[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Stay in The Know: Differentiating Machine Learning and AI",
+      "href" : "http//triassicsolutions.com/blog/stay-in-the-know-differentiating-machine-learning-and-ai/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "AI Will Create More Jobs",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2288\"]/header[1]/div[2]/h6[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "AI Will Create More Jobs",
+      "href" : "http//triassicsolutions.com/blog/ai-will-create-more-jobs/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Role of AI and ML in",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"post-2291\"]/header[1]/div[2]/h6[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Role of AI and ML in Capital Markets",
+      "href" : "http//triassicsolutions.com/blog/role-of-ai-and-ml-in-capital-markets/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "9 Uses for Blockchain_2",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"popular\"]/ul[1]/li[5]/article[1]/header[1]/div[2]/h6[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "9 Uses for Blockchain in the Real World",
+      "href" : "http//triassicsolutions.com/blog/9-uses-for-blockchain-in-the-real-world/"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Learn more about Triassic",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-footer\"]/div[2]/div[1]/div[1]/div[1]/div[1]/p[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Learn more about Triassic",
+      "href" : "http//triassicsolutions.com/about-us",
+      "class" : "learn-more"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Web Apps_1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"menu-item-1497\"]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Web Apps",
+      "href" : "http//triassicsolutions.com/web-apps"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Mobile Apps_1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"menu-item-1498\"]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Mobile Apps",
+      "href" : "http//triassicsolutions.com/mobile-apps"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Embedded_1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"menu-item-1499\"]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Embedded",
+      "href" : "http//triassicsolutions.com/embedded"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "RPA",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"menu-item-1500\"]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "RPA",
+      "href" : "http//triassicsolutions.com/rpa"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "IoT",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"menu-item-1501\"]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "IoT",
+      "href" : "http//triassicsolutions.com/iot"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "AIML_1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"menu-item-1502\"]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "AI/ML",
+      "href" : "http//triassicsolutions.com/ai-ml"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Blockchain_1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"menu-item-2078\"]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Blockchain",
+      "href" : "http//triassicsolutions.com/blockchain"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Industrial Automation_1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"menu-item-2079\"]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Industrial Automation",
+      "href" : "http//triassicsolutions.com/industrial-automation"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "1 425 736 6139",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"utouch_contacts-5\"]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "+1 425 736 6139",
+      "href" : "tel+14257366139",
+      "class" : "info"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "salestriassicsolutionscom_1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"utouch_contacts-5\"]/div[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "sales@triassicsolutions.com",
+      "href" : "mailtosales@triassicsolutions.com",
+      "class" : "info"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "MAILTO",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idutouch_contacts-5ul1li2a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"utouch_contacts-5\"]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "",
+      "href" : "https//www.facebook.com/TriassicSolutions",
+      "class" : "social__item facebook",
+      "target" : "_blank"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idutouch_contacts-5ul1li3a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"utouch_contacts-5\"]/ul[1]/li[3]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "",
+      "href" : "https//twitter.com/TriassicSolns",
+      "class" : "social__item twitter",
+      "target" : "_blank"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idutouch_contacts-5ul1li4a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"utouch_contacts-5\"]/ul[1]/li[4]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "",
+      "href" : "https//www.linkedin.com/company/triassic-solutions-pvt-limited",
+      "class" : "social__item linkedin",
+      "target" : "_blank"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idsite-footerdiv3a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-footer\"]/div[3]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "href" : "#",
+      "class" : "back-to-top"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Triassic Solutions Pvt",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-footer\"]/div[3]/div[1]/div[1]/div[1]/span[1]/span[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Triassic Solutions Pvt. Ltd.",
+      "href" : "/",
+      "class" : "sub-footer__link"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "htmlbodydiv7a1",
+    "parameter" : "xpath",
+    "parametervalue" : "/html/body/div[7]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n            \n                \n            \n        ",
+      "href" : "#",
+      "class" : "popup-close js-popup-close cd-nav-trigger"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  } ]
+}

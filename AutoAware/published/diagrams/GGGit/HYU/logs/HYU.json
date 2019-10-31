@@ -1,0 +1,187 @@
+{
+  "spiderLogs" : [ {
+    "dateTime" : "2019/10/31 18:05:46",
+    "message" : "Initiated Logger.",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:05:46",
+    "message" : "Initiated AutoAware for url : http://www.triassicsolutions.com/ , with an active thread count of 5",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:05:46",
+    "message" : "AutoAware initiate request received for url:http://www.triassicsolutions.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:06:03",
+    "message" : "[Task-0]-New Page Created with no of objects :71 Page Name : Triassic Solutions - End-to-End Product Development  Digital Transformation  Industrial Automation with URL : http://www.triassicsolutions.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:06:14",
+    "message" : "[Task-5]-New Page Created with no of objects :43 Page Name : leadership with URL : http://www.triassicsolutions.com/leadership",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:06:32",
+    "message" : "[Task-6]- Page already exists: Do not save.Triassic Solutions - End-to-End Product Development  Digital Transformation  Industrial Automation and : http://www.triassicsolutions.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:06:40",
+    "message" : "[Task-7]- Page already exists: Do not save.Triassic Solutions - End-to-End Product Development  Digital Transformation  Industrial Automation and : http://www.triassicsolutions.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:06:53",
+    "message" : "[Task-9]- Page already exists: Do not save.Triassic Solutions - End-to-End Product Development  Digital Transformation  Industrial Automation and : http://www.triassicsolutions.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:06:53",
+    "message" : "[Task-8]- Page already exists: Do not save.Triassic Solutions - End-to-End Product Development  Digital Transformation  Industrial Automation and : http://www.triassicsolutions.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:06:56",
+    "message" : "[Task-10]-New Page Created with no of objects :53 Page Name : product-development with URL : http://www.triassicsolutions.com/product-development",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:02",
+    "message" : "[Task-14]-New Page Created with no of objects :53 Page Name : digital-transformation with URL : http://www.triassicsolutions.com/digital-transformation",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:05",
+    "message" : "[Task-15]-New Page Created with no of objects :51 Page Name : rpa with URL : http://www.triassicsolutions.com/rpa",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:08",
+    "message" : "[Task-13]-New Page Created with no of objects :60 Page Name : embedded with URL : http://www.triassicsolutions.com/embedded",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:11",
+    "message" : "[Task-16]-New Page Created with no of objects :53 Page Name : iot with URL : http://www.triassicsolutions.com/iot",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:13",
+    "message" : "[Task-17]-New Page Created with no of objects :48 Page Name : ai-ml with URL : http://www.triassicsolutions.com/ai-ml",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:18",
+    "message" : "[Task-18]-New Page Created with no of objects :45 Page Name : blockchain with URL : http://www.triassicsolutions.com/blockchain",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:21",
+    "message" : "[Task-19]-New Page Created with no of objects :48 Page Name : industrial-automation with URL : http://www.triassicsolutions.com/industrial-automation",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:25",
+    "message" : "[Task-22]-New Page Created with no of objects :52 Page Name : case-study with URL : http://www.triassicsolutions.com/case-study",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:27",
+    "message" : "[Task-23]-New Page Created with no of objects :50 Page Name : contact-us with URL : http://www.triassicsolutions.com/contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:34",
+    "message" : "[Task-26]- Page already exists: Do not save.contact-us and : http://www.triassicsolutions.com/contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:34",
+    "message" : "[Task-25]- Page already exists: Do not save.contact-us and : http://www.triassicsolutions.com/contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:38",
+    "message" : "[Task-21]-New Page Created with no of objects :194 Page Name : Blog - Triassic Solutions - End-to-End Product Development  Digital Transformation  Industrial Automation with URL : http://triassicsolutions.com/blog/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:40",
+    "message" : "[Task-27]- Page already exists: Do not save.contact-us and : http://www.triassicsolutions.com/contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:40",
+    "message" : "[Task-28]- Page already exists: Do not save.contact-us and : http://www.triassicsolutions.com/contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:42",
+    "message" : "[Task-29]- Page already exists: Do not save.product-development and : http://www.triassicsolutions.com/product-development",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:45",
+    "message" : "[Task-30]- Page already exists: Do not save.product-development and : http://www.triassicsolutions.com/product-development",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:45",
+    "message" : "[Task-31]- Page already exists: Do not save.digital-transformation and : http://www.triassicsolutions.com/digital-transformation",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:47",
+    "message" : "[Task-32]- Page already exists: Do not save.digital-transformation and : http://www.triassicsolutions.com/digital-transformation",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:48",
+    "message" : "[Task-35]- Page already exists: Do not save.Triassic Solutions - End-to-End Product Development  Digital Transformation  Industrial Automation and : http://www.triassicsolutions.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:49",
+    "message" : "[Task-34]- Page already exists: Do not save.industrial-automation and : http://www.triassicsolutions.com/industrial-automation",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:50",
+    "message" : "[Task-36]- Page already exists: Do not save.Triassic Solutions - End-to-End Product Development  Digital Transformation  Industrial Automation and : http://www.triassicsolutions.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:51",
+    "message" : "[Task-37]- Page already exists: Do not save.Triassic Solutions - End-to-End Product Development  Digital Transformation  Industrial Automation and : http://www.triassicsolutions.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:52",
+    "message" : "[Task-38]- Page already exists: Do not save.Triassic Solutions - End-to-End Product Development  Digital Transformation  Industrial Automation and : http://www.triassicsolutions.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:52",
+    "message" : "[Task-39]- Page already exists: Do not save.Triassic Solutions - End-to-End Product Development  Digital Transformation  Industrial Automation and : http://www.triassicsolutions.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:53",
+    "message" : "[Task-40]- Page already exists: Do not save.Triassic Solutions - End-to-End Product Development  Digital Transformation  Industrial Automation and : http://www.triassicsolutions.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:55",
+    "message" : "[Task-41]- Page already exists: Do not save.Triassic Solutions - End-to-End Product Development  Digital Transformation  Industrial Automation and : http://www.triassicsolutions.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:55",
+    "message" : "[Task-43]- Page already exists: Do not save.Triassic Solutions - End-to-End Product Development  Digital Transformation  Industrial Automation and : http://www.triassicsolutions.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:56",
+    "message" : "[Task-44]- Page already exists: Do not save.contact-us and : http://www.triassicsolutions.com/contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:07:59",
+    "message" : "[Task-45]- Page already exists: Do not save.Triassic Solutions - End-to-End Product Development  Digital Transformation  Industrial Automation and : http://www.triassicsolutions.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:08:02",
+    "message" : "[Task-46]-New Page Created with no of objects :43 Page Name : about-us with URL : http://www.triassicsolutions.com/about-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:08:02",
+    "message" : "[Task-47]-New Page Created with no of objects :51 Page Name : web-apps with URL : http://www.triassicsolutions.com/web-apps",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:08:07",
+    "message" : "Stop request received for AutoAware",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:08:07",
+    "message" : "[Task-48]-New Page Created with no of objects :54 Page Name : mobile-apps with URL : http://www.triassicsolutions.com/mobile-apps",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:08:25",
+    "message" : "Started closing all the browser windows",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:08:25",
+    "message" : "Completed closing all browser windows",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/10/31 18:08:25",
+    "message" : "855 clickable objects identified",
+    "type" : "INFO"
+  } ]
+}

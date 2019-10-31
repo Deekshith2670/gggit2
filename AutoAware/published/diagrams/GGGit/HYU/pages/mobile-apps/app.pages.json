@@ -1,0 +1,1027 @@
+{
+  "url" : "http://www.triassicsolutions.com/mobile-apps",
+  "area" : "",
+  "subArea" : "",
+  "name" : "mobile-apps",
+  "uuid" : null,
+  "containerApplication" : "",
+  "createdBy" : null,
+  "modifiedTime" : "2019-10-31 18:08:07",
+  "parentPage" : "Triassic Solutions - End-to-End Product Development  Digital Transformation  Industrial Automation",
+  "noOfForms" : 2,
+  "noOfTables" : 0,
+  "noOfDropDowns" : 0,
+  "parentPageList" : [ "Triassic Solutions - End-to-End Product Development  Digital Transformation  Industrial Automation" ],
+  "analysisType" : 0,
+  "autoAwareObjectType" : null,
+  "objectClicked" : "Mobile Apps_1",
+  "parentForm" : null,
+  "parentFormList" : [ ],
+  "pathToPages" : [ {
+    "parentPage" : "Triassic Solutions - End-to-End Product Development  Digital Transformation  Industrial Automation",
+    "objectClicked" : "Mobile Apps_1"
+  } ],
+  "pathToForms" : [ ],
+  "environment" : "AEnv2",
+  "formNames" : null,
+  "createdTime" : "2019-10-31 18:08:07",
+  "objectmap" : [ {
+    "alias" : "SendaMessage",
+    "parameter" : "xpath",
+    "parametervalue" : "/html/body/div[5]/div[1]/div[1]/form[1]",
+    "type" : "FORM",
+    "objectList" : [ ],
+    "attributes" : {
+      "isclickable" : "false",
+      "action" : "send_mail.php",
+      "textContent" : "\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\n\t\t\t\n\t\t\t\tSend a Message\n\t\t\t\n\n\t\t",
+      "method" : "post",
+      "class" : "contact-form"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "NON_CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "search-header-1",
+    "parameter" : "id",
+    "parametervalue" : "search-header-1",
+    "type" : "FORM",
+    "objectList" : [ ],
+    "attributes" : {
+      "name" : "form-search-header",
+      "isclickable" : "false",
+      "textContent" : "\n\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t",
+      "id" : "search-header-1",
+      "method" : "post"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "NON_CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Contact Us",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-header\"]/div[2]/div[1]/div[1]/div[1]/button[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Contact Us",
+      "href" : "contact-us"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Careers",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-header\"]/div[2]/div[1]/div[2]/div[1]/button[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Careers",
+      "href" : "careers"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "About",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-header\"]/div[2]/div[1]/div[3]/div[1]/button[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "About",
+      "href" : "#"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Triassic",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-header\"]/div[2]/div[1]/div[3]/div[1]/div[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Triassic",
+      "href" : "about-us"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Leadership Team",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-header\"]/div[2]/div[1]/div[3]/div[1]/div[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Leadership Team",
+      "href" : "leadership"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "top-bar-close-js",
+    "parameter" : "id",
+    "parametervalue" : "top-bar-close-js",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\n\t\t\t",
+      "href" : "#",
+      "id" : "top-bar-close-js",
+      "class" : "top-bar-close"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "top-bar-js",
+    "parameter" : "id",
+    "parametervalue" : "top-bar-js",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "",
+      "href" : "#",
+      "id" : "top-bar-js",
+      "class" : "top-bar-link"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idsite-headerdiv3div1div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-header\"]/div[3]/div[1]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "",
+      "href" : "/",
+      "class" : "full-block"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "menu-icon-trigger",
+    "parameter" : "id",
+    "parametervalue" : "menu-icon-trigger",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\tMenu\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "href" : "javascriptvoid(0)",
+      "id" : "menu-icon-trigger",
+      "class" : "menu-icon-trigger showhide"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Product Development",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"primary-menu\"]/ul[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Product Development",
+      "href" : "product-development"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Web Apps",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"primary-menu\"]/ul[1]/li[1]/ul[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Web Apps",
+      "href" : "web-apps"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Mobile Apps",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"primary-menu\"]/ul[1]/li[1]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Mobile Apps",
+      "href" : "mobile-apps"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Embedded",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"primary-menu\"]/ul[1]/li[1]/ul[1]/li[3]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Embedded",
+      "href" : "embedded"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Digital Transformation",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"primary-menu\"]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Digital Transformation",
+      "href" : "digital-transformation"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Robotic Process Automation",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"primary-menu\"]/ul[1]/li[2]/ul[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Robotic Process Automation",
+      "href" : "rpa"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Internet of Things",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"primary-menu\"]/ul[1]/li[2]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Internet of Things",
+      "href" : "iot"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "AIML",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"primary-menu\"]/ul[1]/li[2]/ul[1]/li[3]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "AI/ML",
+      "href" : "ai-ml"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Blockchain",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"primary-menu\"]/ul[1]/li[2]/ul[1]/li[4]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Blockchain",
+      "href" : "blockchain"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Industrial Automation",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"primary-menu\"]/ul[1]/li[3]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Industrial Automation",
+      "href" : "industrial-automation"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Resources",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"primary-menu\"]/ul[1]/li[4]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Resources",
+      "href" : "#"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Blog",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"primary-menu\"]/ul[1]/li[4]/ul[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Blog",
+      "href" : "blog"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Case Studies",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"primary-menu\"]/ul[1]/li[4]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Case Studies",
+      "href" : "case-study"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idparallax-onediv1div1div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"parallax-one\"]/div[1]/div[1]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "",
+      "href" : "#section2",
+      "class" : "ct-btn-scroll ct-js-btn-scroll"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Mobile Strategy  Prototyping",
+    "parameter" : "xpath",
+    "parametervalue" : "/html/body/div[5]/section[7]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "Mobile Strategy & Prototyping",
+      "class" : "h5 info-box-title"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "NON_CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Native Apps",
+    "parameter" : "xpath",
+    "parametervalue" : "/html/body/div[5]/section[7]/div[1]/div[1]/div[2]/div[1]/div[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "Native Apps",
+      "class" : "h5 info-box-title"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "NON_CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Cross-platform apps",
+    "parameter" : "xpath",
+    "parametervalue" : "/html/body/div[5]/section[7]/div[1]/div[1]/div[3]/div[1]/div[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "Cross-platform apps",
+      "class" : "h5 info-box-title"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "NON_CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Cloud mobility solutions",
+    "parameter" : "xpath",
+    "parametervalue" : "/html/body/div[5]/section[8]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "Cloud mobility solutions",
+      "class" : "h5 info-box-title"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "NON_CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "App Maintenance  Support",
+    "parameter" : "xpath",
+    "parametervalue" : "/html/body/div[5]/section[8]/div[1]/div[1]/div[2]/div[1]/div[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "App Maintenance & Support",
+      "class" : "h5 info-box-title"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "NON_CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "iditems-griddiv1div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"items-grid\"]/div[1]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "href" : "img/case5.jpg",
+      "class" : "case-item__thumb js-zoom-image"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "View Case",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"items-grid\"]/div[1]/div[1]/div[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\t\t\t\tView Case\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+      "href" : "files/case5.pdf",
+      "class" : "more-arrow white"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "PDF",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "iditems-griddiv2div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"items-grid\"]/div[2]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t",
+      "href" : "img/case3.jpg",
+      "class" : "case-item__thumb js-zoom-image"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "View Case_1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"items-grid\"]/div[2]/div[1]/div[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\t\t\t\tView Case\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t",
+      "href" : "files/case3.pdf",
+      "class" : "more-arrow white"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "PDF",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Show Me How",
+    "parameter" : "xpath",
+    "parametervalue" : "/html/body/div[5]/section[11]/div[1]/div[1]/div[1]/div[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\t\t\tShow Me How\n\t\t\t\t\t\t\t",
+      "href" : "contact-us",
+      "class" : "btn btn--green btn--with-shadow"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idsite-footerdiv2div1div1div1div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-footer\"]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "",
+      "href" : "/",
+      "class" : "full-block"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Learn more about Triassic",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-footer\"]/div[2]/div[1]/div[1]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Learn more about Triassic",
+      "href" : "about-us",
+      "class" : "learn-more"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Web Apps_1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-footer\"]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Web Apps",
+      "href" : "web-apps"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Mobile Apps_1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-footer\"]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Mobile Apps",
+      "href" : "mobile-apps"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Embedded_1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-footer\"]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Embedded",
+      "href" : "embedded"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "RPA",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-footer\"]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "RPA",
+      "href" : "rpa"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "IoT",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-footer\"]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "IoT",
+      "href" : "iot"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "AIML_1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-footer\"]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[6]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "AI/ML",
+      "href" : "ai-ml"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Blockchain_1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-footer\"]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[7]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Blockchain",
+      "href" : "blockchain"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Industrial Automation_1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-footer\"]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[8]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Industrial Automation",
+      "href" : "industrial-automation"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "1 425 736 6139",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-footer\"]/div[2]/div[1]/div[3]/div[1]/div[1]/span[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "+1 425 736 6139",
+      "href" : "tel+1 425 736 6139"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "salestriassicsolutionscom",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-footer\"]/div[2]/div[1]/div[3]/div[1]/div[2]/span[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "sales@triassicsolutions.com",
+      "href" : "mailtosales@triassicsolutions.com"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "MAILTO",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idsite-footerdiv2div1div3div2ul1li2a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-footer\"]/div[2]/div[1]/div[3]/div[2]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "",
+      "href" : "https//www.facebook.com/TriassicSolutions",
+      "target" : "_blank"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idsite-footerdiv2div1div3div2ul1li3a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-footer\"]/div[2]/div[1]/div[3]/div[2]/ul[1]/li[3]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "",
+      "href" : "https//twitter.com/TriassicSolns",
+      "target" : "_blank"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idsite-footerdiv2div1div3div2ul1li4a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-footer\"]/div[2]/div[1]/div[3]/div[2]/ul[1]/li[4]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "",
+      "href" : "https//www.linkedin.com/company/triassic-solutions-pvt-limited",
+      "target" : "_blank"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idsite-footerdiv3a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-footer\"]/div[3]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\n\t\t",
+      "href" : "#",
+      "class" : "back-to-top"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Triassic Solutions Pvt",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"site-footer\"]/div[3]/div[1]/div[1]/div[1]/span[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Triassic Solutions Pvt. Ltd.",
+      "href" : "/",
+      "class" : "sub-footer__link"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "htmlbodydiv5div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "/html/body/div[5]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\n\t",
+      "href" : "#",
+      "class" : "popup-close js-popup-close cd-nav-trigger"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "htmlbodydiv5div2a1",
+    "parameter" : "xpath",
+    "parametervalue" : "/html/body/div[5]/div[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\n\t",
+      "href" : "#",
+      "class" : "popup-close js-popup-close cd-nav-trigger"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  } ]
+}
